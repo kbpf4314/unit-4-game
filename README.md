@@ -1,6 +1,6 @@
 For this assignment I did almost all of my code in javascript.
 
-You'll notice that all of my functioning components are in js/html, and have been pushed to the DOM.
+You'll notice that most of my html is in js, and has been pushed to the DOM.
 
 I found this way to actually be challenging for me, and found it difficult to style my page after getting the game to function.
 
