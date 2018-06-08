@@ -1,0 +1,29 @@
+html {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+.crystals {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.crystal{
+    height: 200px;
+    width: 120px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px grey;
+    transition: box-shadow 1s, transform 0.5s;
+    
+
+}
+
+.crystal:hover{
+    box-shadow: 15px 15px 15px grey;
+    transform: translate(5px, 10px);
+    cursor: pointer;
+    transition: box-shadow 1s, transform 0.5s;
+}
